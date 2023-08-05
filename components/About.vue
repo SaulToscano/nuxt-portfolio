@@ -37,7 +37,7 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           tempore accusantium voluptates corrupti facere culpa necessitatibus,
         </p>
-        <img src="img/cloud.png" alt="" width="300" />
+        <!-- <img src="img/cloud.png" alt="" width="300" /> -->
       </div>
     </div>
     <div class="tile tile-5">
