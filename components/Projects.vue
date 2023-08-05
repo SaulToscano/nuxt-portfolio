@@ -113,7 +113,7 @@
   color: white;
   font-size: 20px;
 
-  background-image: url('../assets/images/work-17.png');
+  background-image: url('../public/work-17.png');
 }
 
 #projects .main-photo h2,
