@@ -93,7 +93,7 @@
 }
 
 #menu .about-tile .front {
-  background-image: url('../assets/images/profile.png');
+  background-image: url('https://i.ibb.co/VwGSZsV/profile.png');
   background-size: cover;
   background-position: top center;
 }
@@ -104,7 +104,7 @@
 }
 
 #menu .projects-tile .front {
-  background-image: url('../assets/images/work-01.png');
+  background-image: url('https://i.ibb.co/87J69Q4/work-01.png');
   background-size: cover;
   background-position: top center;
 }
@@ -115,7 +115,7 @@
 }
 
 #menu .posts-tile .front {
-  background-image: url('../assets/images/work-02.png');
+  background-image: url('https://i.ibb.co/CV4RP7g/work-02.png');
   background-size: cover;
   background-position: top center;
 }
@@ -126,7 +126,7 @@
 }
 
 #menu .contact-tile .front {
-  background-image: url('../assets/images/work-03.png');
+  background-image: url('https://i.ibb.co/z6yqtCX/work-03.png');
   background-size: cover;
   background-position: top center;
 }</style>

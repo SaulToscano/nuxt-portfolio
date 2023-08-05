@@ -109,25 +109,25 @@
 }
 
 #posts .post.post-1 {
-  background-image: url('../assets/images/work-15.png');
+  background-image: url('https://i.ibb.co/CPGRV90/work-15.png');
 }
 
 #posts .post.post-2 {
-  background-image: url('../assets/images/work-02.png');
+  background-image: url('https://i.ibb.co/CV4RP7g/work-02.png');
 }
 
 #posts .post.post-3 {
-  background-image: url('../assets/images/work-05.png');
+  background-image: url('https://i.ibb.co/gWxCKWz/work-05.png');
 }
 
 #posts .post.post-4 {
-  background-image: url('../assets/images/work-08.png');
+  background-image: url('https://i.ibb.co/jTJs0Pr/work-08.png');
 }
 
 #posts .post.post-5 {
-  background-image: url('../assets/images/work-10.png');
+  background-image: url('https://i.ibb.co/SVpwDYc/work-10.png');
 }
 
 #posts .post.post-6 {
-  background-image: url('../assets/images/work-15.png');
+  background-image: url('https://i.ibb.co/CPGRV90/work-15.png');
 }</style>
