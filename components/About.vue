@@ -1,3 +1,7 @@
+<script setup>
+  import ImgReact from '../public/react.png'
+</script>
+
 <template>
   <section id="about">
     <div class="tile tile-1">
@@ -7,7 +11,7 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           tempore accusantium voluptates corrupti facere culpa necessitatibus,
         </p>
-        <img src="../public/react.png" alt="" width="200" />
+        <img :src="ImgReact" alt="" width="200" />
       </div>
     </div>
     <div class="tile tile-2">
