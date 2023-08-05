@@ -7,7 +7,7 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           tempore accusantium voluptates corrupti facere culpa necessitatibus,
         </p>
-        <!-- <img src="img/react.png" alt="" width="200" /> -->
+        <img src="../public/react.png" alt="" width="200" />
       </div>
     </div>
     <div class="tile tile-2">
