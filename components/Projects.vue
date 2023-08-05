@@ -113,7 +113,7 @@
   color: white;
   font-size: 20px;
 
-  background-image: url('../public/work-17.png');
+  background-image: url('https://i.ibb.co/3BwfJzx/work-17.png');
 }
 
 #projects .main-photo h2,
@@ -126,7 +126,7 @@
 
 #projects .photo-2 {
   background-color: yellow;
-  background-image: url('../assets/images/work-01.png');
+  background-image: url('https://i.ibb.co/87J69Q4/work-01.png');
 
   grid-area: photo-2;
 }
@@ -135,103 +135,103 @@
   background-color: aqua;
   grid-area: photo-3;
 
-  background-image: url('../assets/images/work-02.png');
+  background-image: url('https://i.ibb.co/CV4RP7g/work-02.png');
 }
 
 #projects .photo-4 {
   background-color: chocolate;
   grid-area: photo-4;
 
-  background-image: url('../assets/images/work-03.png');
+  background-image: url('https://i.ibb.co/z6yqtCX/work-03.png');
 }
 
 #projects .photo-5 {
   background-color: cornflowerblue;
   grid-area: photo-5;
 
-  background-image: url('../assets/images/work-04.png');
+  background-image: url('https://i.ibb.co/pJ73fWP/work-04.png');
 }
 
 #projects .photo-17 {
   background-color: crimson;
   grid-area: photo-17;
 
-  background-image: url('../assets/images/work-05.png');
+  background-image: url('https://i.ibb.co/gWxCKWz/work-05.png');
 }
 
 #projects .photo-6 {
   background-color: darkcyan;
   grid-area: photo-6;
 
-  background-image: url('../assets/images/work-06.png');
+  background-image: url('https://i.ibb.co/FYGMHnG/work-06.png');
 }
 
 #projects .photo-7 {
   background-color: darkkhaki;
   grid-area: photo-7;
 
-  background-image: url('../assets/images/work-07.png');
+  background-image: url('https://i.ibb.co/hWXpGBQ/work-07.png');
 }
 
 #projects .photo-8 {
   background-color: darkviolet;
   grid-area: photo-8;
 
-  background-image: url('../assets/images/work-09.png');
+  background-image: url('https://i.ibb.co/Twj3jDJ/work-09.png');
 }
 
 #projects .photo-9 {
   background-color: deepskyblue;
   grid-area: photo-9;
 
-  background-image: url('../assets/images/work-08.png');
+  background-image: url('https://i.ibb.co/jTJs0Pr/work-08.png');
 }
 
 #projects .photo-10 {
   background-color: green;
   grid-area: photo-10;
 
-  background-image: url('../assets/images/work-10.png');
+  background-image: url('https://i.ibb.co/SVpwDYc/work-10.png');
 }
 
 #projects .photo-11 {
   background-color: darkorange;
   grid-area: photo-11;
 
-  background-image: url('../assets/images/work-11.png');
+  background-image: url('https://i.ibb.co/Fhdr1ZP/work-11.png');
 }
 
 #projects .photo-12 {
   background-color: darkseagreen;
   grid-area: photo-12;
 
-  background-image: url('../assets/images/work-12.png');
+  background-image: url('https://i.ibb.co/zmr9xzr/work-12.png');  
 }
 
 #projects .photo-13 {
   background-color: indianred;
   grid-area: photo-13;
 
-  background-image: url('../assets/images/work-13.png');
+  background-image: url('https://i.ibb.co/TLqSZNP/work-13.png');
 }
 
 #projects .photo-14 {
   background-color: indigo;
   grid-area: photo-14;
 
-  background-image: url('../assets/images/work-14.png');
+  background-image: url('https://i.ibb.co/MP0jSNf/work-14.png');
 }
 
 #projects .photo-15 {
   background-color: lightblue;
   grid-area: photo-15;
 
-  background-image: url('../assets/images/work-15.png');
+  background-image: url('https://i.ibb.co/CPGRV90/work-15.png');
 }
 
 #projects .photo-16 {
   grid-area: photo-16;
 
-  background-image: url('../assets/images/work-16.png');
+  background-image: url('https://i.ibb.co/G3qz78V/work-16.png');
 }
 </style>

@@ -17,7 +17,7 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           tempore accusantium voluptates corrupti facere culpa necessitatibus,
         </p>
-        <!-- <img src="img/profile.png" alt="" width="100" height="100" /> -->
+        <img src="https://i.ibb.co/VwGSZsV/profile.png" alt="" width="100" height="100" />
       </div>
     </div>
     <div class="tile tile-3">
@@ -27,7 +27,7 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           tempore accusantium voluptates corrupti facere culpa necessitatibus,
         </p>
-        <!-- <img src="img/microsoft.png" alt="" width="300" /> -->
+        <img src="https://i.ibb.co/GHPsL8p/microsoft.png" alt="" width="300" />
       </div>
     </div>
     <div class="tile tile-4">
@@ -37,7 +37,7 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           tempore accusantium voluptates corrupti facere culpa necessitatibus,
         </p>
-        <!-- <img src="img/cloud.png" alt="" width="300" /> -->
+        <img src="https://i.ibb.co/6sFwpLz/cloud.png" alt="" width="300" />
       </div>
     </div>
     <div class="tile tile-5">
@@ -49,7 +49,7 @@
           nihil rem sequi deleniti quod repudiandae ratione nemo veniam sint,
           dignissimos a repellendus nisi.
         </p>
-        <!-- <img src="img/trophy.png" alt="" /> -->
+        <img src="https://i.ibb.co/0qZ462F/trophy.png" alt="" />
       </div>
     </div>
   </section>
