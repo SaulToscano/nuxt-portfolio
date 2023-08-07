@@ -89,6 +89,7 @@
           <li>Bull</li>
           <li>Morgan</li>
           <li>Cypress</li>
+          <li>Solid</li>
         </ul>
         <img src="https://i.ibb.co/0qZ462F/trophy.png" alt="" />
       </div>
