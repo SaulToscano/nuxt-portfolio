@@ -71,6 +71,7 @@
         <h2>SERVICES</h2>
         <ul>
           <li>Git</li>
+          <li>Jira / Confluence</li>
           <li>Docker</li>
           <li>Kubernetes</li>
           <li>Nginx</li>
