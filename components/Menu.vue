@@ -7,17 +7,17 @@
       </a>
     </div>
     <div class="tile projects-tile">
-      <a href="#projects">
+      <a href="#posts">
         <div class="front"></div>
         <div class="back">PROJECTS</div>
       </a>
     </div>
-    <div class="tile posts-tile">
-      <a href="#posts">
+    <!-- <div class="tile posts-tile">
+      <a href="#projects">
         <div class="front"></div>
-        <div class="back">POSTS</div>
+        <div class="back">Post</div>
       </a>
-    </div>
+    </div> -->
     <div class="tile contact-tile">
       <a href="#contact">
         <div class="front"></div>
@@ -29,7 +29,7 @@
 
 <style>
 #menu {
-  background-color: rgb(195, 35, 88);
+  background-color: rgb(49 28 119 / 90%);
   display: grid;
   grid-template-columns: repeat(4, 200px);
   grid-template-rows: repeat(2, 200px);
@@ -37,7 +37,7 @@
   align-content: center;
   grid-template-areas:
     "about about projects projects"
-    "about about posts contact";
+    "about about contact contact";
 }
 
 #menu .tile {
@@ -71,6 +71,10 @@
   margin-top: -50%;
 }
 
+#menu .contact-tile:hover .front {
+  margin-top: -50%;
+}
+
 #menu .tile .back {
   background-color: #222;
   color: white;
@@ -93,7 +97,7 @@
 }
 
 #menu .about-tile .front {
-  background-image: url('https://i.ibb.co/VwGSZsV/profile.png');
+  background-image: url('https://i.ibb.co/J2Zjvzw/45426762-1197435277078500-3313883099284111360-n.jpg');
   background-size: cover;
   background-position: top center;
 }
@@ -104,7 +108,7 @@
 }
 
 #menu .projects-tile .front {
-  background-image: url('https://i.ibb.co/87J69Q4/work-01.png');
+  background-image: url('https://i.ibb.co/MfYR3Tf/Small-Projects.png');
   background-size: cover;
   background-position: top center;
 }
@@ -115,7 +119,7 @@
 }
 
 #menu .posts-tile .front {
-  background-image: url('https://i.ibb.co/CV4RP7g/work-02.png');
+  background-image: url('https://i.ibb.co/x8RftPL/Best-times-to-post-2022-BTTP-Social-Media.jpg');
   background-size: cover;
   background-position: top center;
 }

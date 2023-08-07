@@ -1,50 +1,66 @@
 <template>
   <section id="posts">
     <div class="post post-1">
-      <a href="#">
+      <a target="_blank" href="https://saultoscano.github.io/Comentary-System/">
         <div class="title">
-          <h3>La ciencia detras del arte</h3>
+          <h3>Comentary System</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-            iure nesciunt atque nam illo dolore ipsa asperiores cumque
+            A mini project that simulate a system of commentaries.
+            <br />
+            It uses javascript vainilla.
           </p>
         </div>
       </a>
     </div>
     <div class="post post-2">
-      <a href="#">
+      <a target="_blank" href="https://saultoscano.github.io/JSON-to-CSV/">
         <div class="title">
-          <h3>La ciencia detras del arte</h3>
+          <h3>JSON to CSV</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-            iure nesciunt atque nam illo dolore ipsa asperiores cumque
+            A mini project that create a content of csv from a json.
+            <br />
+            It uses javascript vainilla.
           </p>
         </div>
       </a>
     </div>
     <div class="post post-3">
-      <a href="#">
+      <a target="_blank" href="https://saultoscano.github.io/Mini-Ecommerce/">
         <div class="title">
-          <h3>La ciencia detras del arte</h3>
+          <h3>Mini Ecommerce</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-            iure nesciunt atque nam illo dolore ipsa asperiores cumque
+            A project that simulates an E-commerce
+            <br />
+            It uses react, redux, mantine, paypal integration and Typescript 
           </p>
         </div>
       </a>
     </div>
     <div class="post post-4">
-      <a href="#">
+      <a target="_blank" href="https://saultoscano.github.io/pokedex_vue/">
         <div class="title">
-          <h3>La ciencia detras del arte</h3>
+          <h3>Pokedex</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-            iure nesciunt atque nam illo dolore ipsa asperiores cumque
+            A project that creates a pokemon pokedex.
+            <br />
+            It uses vue and fetch from a pokemon api.
           </p>
         </div>
       </a>
     </div>
     <div class="post post-5">
+      <a target="_blank" href="https://saultoscano.github.io/WeatherApp/">
+        <div class="title">
+          <h3>Weather app</h3>
+          <p>
+            A project that creates a weather webpage.
+            <br />
+            It uses react with js and fetch from a weather app.
+          </p>
+        </div>
+      </a>
+    </div>
+    <!-- <div class="post post-6">
       <a href="#">
         <div class="title">
           <h3>La ciencia detras del arte</h3>
@@ -54,18 +70,7 @@
           </p>
         </div>
       </a>
-    </div>
-    <div class="post post-6">
-      <a href="#">
-        <div class="title">
-          <h3>La ciencia detras del arte</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-            iure nesciunt atque nam illo dolore ipsa asperiores cumque
-          </p>
-        </div>
-      </a>
-    </div>
+    </div> -->
   </section>
 </template>
 

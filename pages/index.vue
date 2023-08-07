@@ -2,7 +2,7 @@
   <div>
     <Menu />
     <About />
-    <Projects />
+    <!-- <Projects /> -->
     <Posts />
     <Contact />
   </div>
