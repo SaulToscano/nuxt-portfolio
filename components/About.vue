@@ -77,6 +77,7 @@
           <li>Nginx</li>
           <li>AWS</li>
           <li>Heroku</li>
+          <li>Graphql</li>
         </ul>
         <img src="https://i.ibb.co/6sFwpLz/cloud.png" alt="" width="300" />
       </div>
